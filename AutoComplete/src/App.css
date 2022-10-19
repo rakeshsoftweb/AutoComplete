@@ -1,0 +1,11 @@
+ul li{
+  list-style: none;
+}
+
+.auto-list{
+  margin-left: 20px;
+}
+
+.search-sel {
+  background-color: gold;
+}
